@@ -1,2 +1,2 @@
-# Akhil_Plinko
-Edited Version of Plinko designed by Akhil
+# Plinking-Balls
+It's Plinko
